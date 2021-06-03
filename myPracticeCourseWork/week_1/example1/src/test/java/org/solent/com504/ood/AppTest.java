@@ -1,4 +1,4 @@
-package org.charlie249.com504.ood;
+package org.solent.com504.ood;
 
 import static org.junit.Assert.assertTrue;
 

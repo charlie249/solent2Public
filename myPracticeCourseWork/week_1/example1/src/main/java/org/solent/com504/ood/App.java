@@ -1,4 +1,4 @@
-package org.charlie249.com504.ood;
+package org.solent.com504.ood;
 
 /**
  * Hello world!
@@ -6,8 +6,7 @@ package org.charlie249.com504.ood;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
+    public static void main( String[] args ) {
         System.out.println( "Hello World!" );
     }
 }
