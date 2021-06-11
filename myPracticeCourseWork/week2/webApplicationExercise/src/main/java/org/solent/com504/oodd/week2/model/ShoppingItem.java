@@ -19,6 +19,9 @@ public class ShoppingItem {
     Double price=0.0;
     
     public ShoppingItem(){
+        String uuuid=null;
+        String name=null;
+        
         
     }
 
